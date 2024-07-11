@@ -1,0 +1,5 @@
+{
+    "name": "@my-scope/bar",
+    "version": "0.3.0",
+    "exports": "./lib.ts"
+  }

@@ -1,0 +1,9 @@
+{
+  "nodeModulesDir": true,
+  "workspace": ["fizz"],
+  "lint": {
+    "rules": {
+      "exclude": ["no-unused-var"]
+    }
+  }
+}

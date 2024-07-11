@@ -1,0 +1,4 @@
+{
+  "nodeModulesDir": true,
+  "workspace": ["fizz", "buzz"]
+}
